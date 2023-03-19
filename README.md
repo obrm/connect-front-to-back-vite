@@ -43,7 +43,7 @@ npm install
 cd config
 touch config.env
 ```  
-4. Add the following line to your config.env file:
+4. Add the following lines to your config.env file:
 ```env
 NODE_ENV=development
 PORT=5000
