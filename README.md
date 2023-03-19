@@ -1,6 +1,7 @@
 # Connect Front to Back - MERN Stack Project
 
-This repository contains a MERN (MongoDB, Express, React, Node) stack project that demonstrates how to connect a front-end React application to a back-end Node/Express API. It is based on the following tutorial: [MERN Stack Project Setup Guide - Step by Step Cheat Sheet.](https://medium.com/@obrm770/mern-stack-project-setup-guide-step-by-step-cheat-sheet-25fae8d08a9a)
+This repository contains a MERN (MongoDB, Express, React, Node) stack project that demonstrates how to connect a front-end React application to a back-end Node/Express API. It can serve as a boilerplate project for a MERN stack application, providing a solid foundation for building scalable and maintainable applications. 
+The project is based on the following tutorial I wrote: [MERN Stack Project Setup Guide - Step by Step Cheat Sheet.](https://medium.com/@obrm770/mern-stack-project-setup-guide-step-by-step-cheat-sheet-25fae8d08a9a)
 
 
 ## Table of Contents 
