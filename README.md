@@ -8,11 +8,11 @@ The project is based on the following tutorial I wrote: [MERN Stack Project Setu
 
 - [Connect Front to Back - MERN Stack Project](#connect-front-to-back---mern-stack-project)
 - [Table of Contents](#table-of-contents)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Running the Application](#running-the-application)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+- [Running the Application](#running-the-application)
+- [Contributing](#contributing)
+- [License](#license)
 
 #### Prerequisites
 
