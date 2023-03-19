@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-import axios from 'axios';
 
 function App() {
   const [people, setPeople] = useState([]);
@@ -8,8 +7,9 @@ function App() {
   useEffect(() => {
     const fetchPeople = async () => {
       try {
-        const response = await axios.get('/api/people');
-        setPeople(response.data);
+        const response = await fetch('/api/people');
+        const data = await response.json();
+        setPeople(data);
       } catch (error) {
         console.error('Error fetching data:', error);
       }
