@@ -1,19 +1,19 @@
-# Connect Front to Back - MERN Stack Project {#connect-front-to-back-mern-stack-project}
+# Connect Front to Back - MERN Stack Project
 
 This repository contains a MERN (MongoDB, Express, React, Node) stack project that demonstrates how to connect a front-end React application to a back-end Node/Express API. It is based on the following tutorial: [MERN Stack Project Setup Guide - Step by Step Cheat Sheet.](https://medium.com/@obrm770/mern-stack-project-setup-guide-step-by-step-cheat-sheet-25fae8d08a9a)
 
 
-## Table of Contents {#table-of-contents}
+## Table of Contents 
 
-- [Connect Front to Back - MERN Stack Project](#connect-front-to-back-mern-stack-project)
+- [Connect Front to Back - MERN Stack Project](#connect-front-to-back---mern-stack-project)
 - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-  - [Running the Application](#run-app)
+  - [Running the Application](#running-the-application)
   - [Contributing](#contributing)
   - [License](#license)
 
-#### Prerequisites {#prerequisites}
+#### Prerequisites
 
 Before you start, ensure you have the following installed:
 
@@ -21,7 +21,7 @@ Before you start, ensure you have the following installed:
 * [npm](https://www.npmjs.com/get-npm) (v7.x or later)
 * [yarn](https://classic.yarnpkg.com/lang/en/docs/install) (v1.x or later)
 
-#### Setup {#setup}
+#### Setup
 
 To set up the project, follow these steps:
 
@@ -59,7 +59,7 @@ cd client
 yarn
 ```
 
-#### Running the Application {#run-app}
+#### Running the Application
 
 To run the application, in the root directory, start the Node/Express server and the react application concurrently:
 
@@ -70,7 +70,7 @@ The server will be running on `http://localhost:5000` and the React Vite applica
 
 Now you have both the front-end and back-end servers running. You can interact with the application through the browser on `http://localhost:5173` and see how the front-end React app communicates with the back-end Node/Express API.
 
-#### Contributing {#contributing}
+#### Contributing
 
 We welcome contributions to this project. To contribute, follow these steps:
 
@@ -82,7 +82,7 @@ We welcome contributions to this project. To contribute, follow these steps:
 
 Please ensure your code adheres to the existing style and that you properly document your changes.
 
-## License {#license}
+## License
 
 This project is licensed under the MIT License. 
 
