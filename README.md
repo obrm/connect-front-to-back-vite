@@ -5,13 +5,13 @@ This repository contains a MERN (MongoDB, Express, React, Node) stack project th
 
 ## Table of Contents {#table-of-contents}
 
-- Connect Front to Back - MERN Stack Project
-- Table of Contents
-  - Prerequisites
-  - Setup
-  - Running the Application
-  - Contributing
-  - License
+- [Connect Front to Back - MERN Stack Project](#connect-front-to-back-mern-stack-project)
+- [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Running the Application](#run-app)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 #### Prerequisites {#prerequisites}
 
