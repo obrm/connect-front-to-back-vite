@@ -9,7 +9,7 @@
 /coverage
 
 # Environment variables
-# *.env*
+*.env*
 !.env.example
 
 # Logs
@@ -34,7 +34,6 @@
 /dist
 /dist-ssr
 .eslintcache
-desktop.ini
 
 # Configuration
 .prettierrc
